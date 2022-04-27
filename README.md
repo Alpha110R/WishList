@@ -8,3 +8,5 @@ The project is called WishList, a system for managing a list of products I would
 The main emphasis in this project is in the world of ***IOB - Internet Of Behavior***. Therefore, we would like to collect as much information as possible about the users of the app during use.
 
 The instructions for each sprint and our submission are attached.
+
+![image](https://user-images.githubusercontent.com/68230416/165538714-77187b73-ea47-4745-ad85-87e1214610c8.png)
