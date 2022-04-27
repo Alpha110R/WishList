@@ -1,15 +1,20 @@
 # WishList
 A team project from the Integrative Software Engineering course.
-The project is managed in :star:**SCRUM methodology**, divided into several sprints with each sprint lasting two weeks.
+The project is managed in :star:**SCRUM methodology**:star:, divided into several sprints with each sprint lasting two weeks.
 
-The team includes :star:**7 students**, each with his own specialization, but we all contribute for all the stages of the project and manage the development together through  :star:**Trello** system.
+The team includes :star:**7 students**:star:, each with his own specialization, but we all contribute for all the stages of the project and manage the development together through  :star:**Trello**:star: system.
 
 The project is called WishList, a system for managing a list of products that the user would like to buy.
 
-The main emphasis in this project is :star:**IOB - Internet Of Behavior**. Therefore, we would like to collect as much information as possible about the users of the app during use.
+The main emphasis in this project is :star:**IOB - Internet Of Behavior**:star:. Therefore, we would like to collect as much information as possible about the users of the app during use.
 
 # The project is still in progress and there will be more sprints to come. We will build the UI, JUnit5 tests, etc.
-# :sunglasses: Backend: Spring, Hibernate, Apache Tomcat, H2 Database, Jackson
+# Backend:
+- :sunglasses: Spring
+- :sunglasses: Hibernate
+- :sunglasses: Apache Tomcat
+- :sunglasses: H2 Database
+- :sunglasses: Jackson
 
 The instructions for each sprint and our submission are attached.
 
