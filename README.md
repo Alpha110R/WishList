@@ -7,8 +7,7 @@ The team includes **7 students**, each with his own specialization, but we all c
 The project is called WishList, a system for managing a list of products that the user would like to buy.
 The main emphasis in this project is ***IOB - Internet Of Behavior***. Therefore, we would like to collect as much information as possible about the users of the app during use.
 
-**The project is still in progress** and there will be more sprints to come. We will build the UI, JUnit5 tests, etc.
-
+# **The project is still in progress** and there will be more sprints to come. We will build the UI, JUnit5 tests, etc.
 **Backend: Spring, Hibernate, Apache Tomcat, H2 Database, Jackson**
 
 The instructions for each sprint and our submission are attached.
