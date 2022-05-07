@@ -8,6 +8,8 @@ The project is called WishList, a system for managing a list of products that th
 
 The main emphasis in this project is :star:**IOB - Internet Of Behavior**:star:. Therefore, we would like to collect as much information as possible about the users of the app during use.
 
+![image](https://user-images.githubusercontent.com/68230416/165538714-77187b73-ea47-4745-ad85-87e1214610c8.png)
+
 # The project is still in progress and there will be more sprints to come. We will build the UI, JUnit5 tests, etc.
 # Backend:
 - :sunglasses: Spring
@@ -18,19 +20,17 @@ The main emphasis in this project is :star:**IOB - Internet Of Behavior**:star:.
 
 The instructions for each sprint and our submission are attached.
 
-# REST API and Logic:
-
-![image](https://user-images.githubusercontent.com/68230416/165538714-77187b73-ea47-4745-ad85-87e1214610c8.png)
+# REST API:
 
 ![image](https://user-images.githubusercontent.com/68230416/165539056-32c7bec6-bfcb-429b-904d-a615db90c107.png)
 
-# Update for REST API and Logic:**
+# Update for REST API and Logic:
 
 ![Instances](https://user-images.githubusercontent.com/68230416/167264037-20e9060a-facb-4076-b109-651ea0799b4b.png)
 
 ![Instances and Admin](https://user-images.githubusercontent.com/68230416/167264050-bc7dfac7-5118-4006-b068-7d2239a10623.png)
 
-# Business Logic:**
+# Business Logic:
 
 ![Business Logic](https://user-images.githubusercontent.com/68230416/167264126-8d642dfd-345d-4e54-8551-2f22f49ee486.png)
 
