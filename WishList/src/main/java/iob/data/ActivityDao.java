@@ -1,7 +1,7 @@
 package iob.data;
 
-import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.repository.PagingAndSortingRepository;
 
-public interface ActivityDao extends CrudRepository<ActivityEntity, String>{
+public interface ActivityDao extends PagingAndSortingRepository<ActivityEntity, String> {
 
 }

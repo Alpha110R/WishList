@@ -1,7 +1,10 @@
 package iob.data;
 
-import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.repository.PagingAndSortingRepository;
 
-public interface UserDao extends CrudRepository<UserEntity, String>{
+//import org.springframework.data.repository.CrudRepository;
+
+public interface UserDao extends PagingAndSortingRepository<UserEntity, String> {
+//CrudRepository<UserEntity, String>
 	
 }
