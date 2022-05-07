@@ -10,13 +10,14 @@ The main emphasis in this project is :star:**IOB - Internet Of Behavior**:star:.
 
 ![image](https://user-images.githubusercontent.com/68230416/165538714-77187b73-ea47-4745-ad85-87e1214610c8.png)
 
-# The project is still in progress and there will be more sprints to come. We will build the UI, JUnit5 tests, etc.
+# The project is still in progress and there will be more sprints to come. We will build the UI, Database, etc.
 # Backend:
 - :sunglasses: Spring
 - :sunglasses: Hibernate
 - :sunglasses: Apache Tomcat
 - :sunglasses: H2 Database
 - :sunglasses: Jackson
+- :sunglasses: JUnit5
 
 The instructions for each sprint and our submission are attached.
 
